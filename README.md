@@ -1,56 +1,49 @@
 # hurbai
 
 <div align="center">
-  <a href="https://www.hurbai.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-www.hurbai.com-4A90E2?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website" />
+  <a href="https://www.hurbai.com">
+    <img src="https://img.shields.io/badge/Blog-www.hurbai.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
   </a>
 </div>
 
 ## About Me
 
-Builder focused on crafting clean, maintainable code since 2017.  
+Builder focused on TypeScript development with a track record of consistent commit activity. Member since 2017, currently active across 2 public repositories with 13 active days in the last 90 days. Primary contributions center on direct development work in TypeScript, reflecting a builder-oriented approach with 100% commit share.
 
-Primarily working in **TypeScript** with a strong emphasis on practical implementation and iterative development. Active across 2 public repositories in the last 90 days, contributing through consistent commits.  
-
-Recent activity shows focused work in TypeScript, with 13 active days in the current quarter. Approach centers on building and refining solutions directly through code.
+Recent activity emphasizes TypeScript, supported by an overall language distribution of TypeScript (89.5%) and CSS (10.5%). Public profile shows focused, hands-on repository maintenance without organizational affiliations.
 
 ## Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-</p>
+
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> 
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=A7x2Nj5c4xnnC3P021fwFhbkhQk5TXqE" alt="GitHub Stats" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=A7x2Nj5c4xnnC3P021fwFhbkhQk5TXqE" alt="Top Languages" width="48%" />
+  <img src="https://readme.u14.app/api/github/stats?userId=A7x2Nj5c4xnnC3P021fwFhbkhQk5TXqE" alt="GitHub Stats for hurbai" width="48%" />
+  <img src="https://readme.u14.app/api/github/top-langs?userId=A7x2Nj5c4xnnC3P021fwFhbkhQk5TXqE" alt="Top Languages for hurbai" width="48%" />
 </div>
 
 ## Top Repositories
 
-**smail-app**  
-[![Stars](https://img.shields.io/github/stars/hurbai/smail-app?style=flat-square&color=58A6FF)](https://github.com/hurbai/smail-app)  
+### [smail-app](https://github.com/hurbai/smail-app)
+![Stars](https://img.shields.io/github/stars/hurbai/smail-app?style=flat-square&color=58A6FF)  
 TypeScript • Recently maintained
 
-**xxx**  
-[![Stars](https://img.shields.io/github/stars/hurbai/xxx?style=flat-square&color=58A6FF)](https://github.com/hurbai/xxx)  
+### [xxx](https://github.com/hurbai/xxx)
+![Stars](https://img.shields.io/github/stars/hurbai/xxx?style=flat-square&color=58A6FF)  
 Recently maintained
 
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurbai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hurbai&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hurbai&theme=tokyonight" alt="GitHub Streak Stats for hurbai" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hurbai&label=Profile%20Views&color=4A90E2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hurbai&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views">
 </div>
